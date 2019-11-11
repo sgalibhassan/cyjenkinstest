@@ -1,0 +1,4 @@
+{
+    "baseUrl": "https://jarvice-development.k8s.dal1.jarvice.io/",
+    "testFiles": "**/*.feature"
+  }
